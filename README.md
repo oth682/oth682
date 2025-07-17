@@ -8,7 +8,6 @@
 
 ---
 
-# 💻 Tech Stack:
 
 # 💻 Tech Stack:
 
